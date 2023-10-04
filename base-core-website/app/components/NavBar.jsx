@@ -1,19 +1,35 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link'
+import Logo from '../../public/logo.jpg'
+import BaseLogo from '../../public/logo_BASE.png'
 
 const NavBar = () => {
     return(
         <>
             <div className="container stick-navBar " id="NavBar" style={{"alignSelf": "flex-start"}}>
                 <div className="row bg-light-subtle">
-                    <header className="border border-top-0 border-primary rounded-bottom d-flex flex-wrap justify-content-center pt-3">
-                        <div className="stacked-title mb-3 mb-md-0 me-md-auto link-body-emphasis">
+                    <header className="border border-top-0 pb-1 border-primary rounded-bottom d-flex flex-wrap justify-content-center pt-4">
+                            <Image 
+                                className="bi me-2 icon"
+                                width={124}
+                                height={96}
+                                src={BaseLogo}
+                                alt="BASE Logo"
+                            />
+                            <Image 
+                                className="bi me-2 icon"
+                                width={124}
+                                height={96}
+                                src={Logo}
+                                alt="Logo"
+                            />
+                        <div className="stacked-title mb-md-0 mt-3 me-md-auto link-body-emphasis">
                             <a
                             href="/"
                             className="d-flex link-module align-items-center mb-0 mb-md-0 me-md-auto link-body-emphasis link-color-unique text-decoration-none"
                             >
-                            <span className="fs-4">BASE CORE</span>
+                            <span className="fs-2">BASE CORE</span>
                             </a>
                         </div>
                         <ul className="nav ">
