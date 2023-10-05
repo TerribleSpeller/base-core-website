@@ -54,7 +54,7 @@ const about = () => {
                         </li> 
                         <li>Technical Inquiries: 
                             <br/>
-                            WA: 081293820288 (Techinician - Jason Alexander)
+                            WA: 081293820288 (Technician  - Jason Alexander)
                         </li>
                         
                     </ul>
