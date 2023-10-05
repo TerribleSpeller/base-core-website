@@ -52,6 +52,11 @@ const about = () => {
                         <li>Whatsapp: 085280555225 ( Ketua Umum - Jo Edwards)</li>
                         <li>Email: core<span className="blockspam" aria-hidden="true">chinesewebsite</span>.binusaso<span className="blockspam" aria-hidden="true">lmaoblocked</span>@gmail<span className="blockspam" aria-hidden="true">thelandsoftheequestrians</span>.com
                         </li> 
+                        <li>Technical Inquiries: 
+                            <br/>
+                            WA: 081293820288 (Techinician - Jason Alexander)
+                        </li>
+                        
                     </ul>
                 </div>
                 <br/>
