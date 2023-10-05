@@ -11,7 +11,7 @@ const BotBar = () => {
                 <div className="row ">
                     <div className="rounded border  border-primary">
                         <center>
-                                Made by Jason Alexander (2602188673) B2026
+                                Made by Jason Alexander (2602188673) B2026 with Next.js + Bootstrap
                         </center>
                     </div>
                 </div>

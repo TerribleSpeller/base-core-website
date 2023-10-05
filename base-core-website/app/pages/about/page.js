@@ -58,6 +58,14 @@ const about = () => {
                         </li>
                         
                     </ul>
+                    <h3>
+                        Technical
+                    </h3>
+                    <ul>
+                        <li>Made using Next.js and Bootstrap</li>
+                        <li>Made by Jason Alexander (2602188673) B2026</li>
+                        <li>Released under CC BY 4.0 DEED</li>
+                    </ul>
                 </div>
                 <br/>
             </div>
