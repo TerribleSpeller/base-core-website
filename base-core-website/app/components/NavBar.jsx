@@ -1,15 +1,18 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link'
-import Logo from '../../public/logo.jpg'
+import Logo from '../../public/logoclub.png'
 import BaseLogo from '../../public/logo_BASE.png'
+import 'bootstrap/dist/css/bootstrap.css';
+import '../page.module.css'
+
 
 const NavBar = () => {
     return(
         <>
             <div className="container stick-navBar " id="NavBar" style={{"alignSelf": "flex-start"}}>
-                <div className="row bg-light-subtle">
-                    <header className="border border-top-0 pb-1 border-primary rounded-bottom d-flex flex-wrap justify-content-center pt-4">
+                <div className="row ">
+                    <header className="border border-top-0 pb-1 border-primary bg-light rounded-bottom d-flex flex-wrap justify-content-center pt-4">
                             <Image 
                                 className="bi me-2 icon"
                                 width={124}
@@ -39,17 +42,17 @@ const NavBar = () => {
                             </Link>
                             </li>
                             <li className="nav-item pt-3">
-                            <Link href="/index" className="nav-link link-module">
-                            <span>Index</span>
+                            <Link href="/people" className="nav-link link-module">
+                            <span>People</span>
                             </Link>
                             </li>
                             <li className="nav-item pt-3">
-                            <Link href="/faqs" className="nav-link link-module">
+                            <Link href="/pages/faqs" className="nav-link link-module">
                             <span>FAQs</span>
                             </Link>
                             </li>
                             <li className="nav-item pt-3 ">
-                            <Link href="/about" className="nav-link link-module">
+                            <Link href="/pages/about" className="nav-link link-module">
                             <span>About</span>
                             </Link>
                             </li>
