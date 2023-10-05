@@ -64,7 +64,7 @@ const about = () => {
                     <ul>
                         <li>Made using Next.js and Bootstrap</li>
                         <li>Made by Jason Alexander (2602188673) B2026</li>
-                        <li>Released under CC BY 4.0 DEED</li>
+                        <li>Released under MIT License</li>
                     </ul>
                 </div>
                 <br/>
