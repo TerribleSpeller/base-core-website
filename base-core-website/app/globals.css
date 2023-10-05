@@ -248,7 +248,6 @@ body {
 }
 
 .stick-botBar {
-  position: sticky;
   bottom: 0;
   left: 0;
 }
