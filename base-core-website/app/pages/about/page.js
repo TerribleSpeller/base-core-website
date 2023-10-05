@@ -26,7 +26,7 @@ const about = () => {
                     </p>
                     <br/>
                     <h3>Mission</h3>
-                    <p style={{"textAlign": "justify"}}>
+                   
                         <ol>
                             <li>
                                 <p style={{"textAlign": "justify"}}>
@@ -44,7 +44,6 @@ const about = () => {
                                 </p>
                             </li>
                         </ol>
-                    </p>
                 </div>
                 <div className="container" id="contact">
                     <br/>

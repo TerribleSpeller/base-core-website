@@ -1,15 +1,18 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link'
-import Logo from '../../public/logo.jpg'
+import Logo from '../../public/logoclub.png'
 import BaseLogo from '../../public/logo_BASE.png'
+import 'bootstrap/dist/css/bootstrap.css';
+import '../page.module.css'
+
 
 const NavBar = () => {
     return(
         <>
             <div className="container stick-navBar " id="NavBar" style={{"alignSelf": "flex-start"}}>
-                <div className="row bg-light-subtle">
-                    <header className="border border-top-0 pb-1 border-primary rounded-bottom d-flex flex-wrap justify-content-center pt-4">
+                <div className="row ">
+                    <header className="border border-top-0 pb-1 border-primary bg-light rounded-bottom d-flex flex-wrap justify-content-center pt-4">
                             <Image 
                                 className="bi me-2 icon"
                                 width={124}

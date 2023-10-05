@@ -21,9 +21,12 @@ export default function RootLayout({ children }) {
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </Head>
       <body className={inter.className} >
-        <Navbar />
-        {children}
-        <BotBar />
+        <div className="colorsetter">
+          <Navbar />
+          {children}
+          <BotBar />
+        </div>
+
       </body>    
     </html>
 

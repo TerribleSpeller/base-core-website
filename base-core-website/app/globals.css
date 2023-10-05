@@ -1,5 +1,6 @@
 
 
+
 /*Stuff stolen from Bootsrap */
 .bd-placeholder-img {
   font-size: 1.125rem;
@@ -261,4 +262,8 @@ body {
 
 .blockspam{
   display:none;
+}
+
+.bg-lighterblue {
+  background-color: #92B4EC;
 }

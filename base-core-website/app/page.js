@@ -13,15 +13,16 @@ export default function Home() {
           <br/>
         </div>
         <div className="container bg-img-landing rounded-bottom" id="cool-landing-image" >
+          <br/>
           <div className="mx-auto my-auto">
 
             <div className="my-auto border   bg-success-subtle rounded opacity-75" id="cool content" style={{"minWidth": "40 rem", "textAlign": "center"}}>
 
               <h1>BASE CORE</h1>
-
+              
             </div>
           </div>
-
+          <br/>
         </div>
         <br/>
             <br/>
