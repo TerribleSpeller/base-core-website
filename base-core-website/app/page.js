@@ -12,10 +12,10 @@ export default function Home() {
         <div className="container bg-info" id="banner-cool">
           <br/>
         </div>
-        <div className="container bg-img-landing" id="cool-landing-image" >
+        <div className="container bg-img-landing rounded-bottom" id="cool-landing-image" >
           <div className="mx-auto my-auto">
 
-            <div className="my-auto border  bg-success-subtle rounded opacity-75" id="cool content" style={{"minWidth": "40 rem", "textAlign": "center"}}>
+            <div className="my-auto border   bg-success-subtle rounded opacity-75" id="cool content" style={{"minWidth": "40 rem", "textAlign": "center"}}>
 
               <h1>BASE CORE</h1>
 
@@ -112,6 +112,7 @@ export default function Home() {
           <h2>How to Join?</h2>
           <hr/>
           <u><h3>Robotic Research Division</h3></u>
+          <p style={{"textAlign": "justify"}}>To join this division, the following are needed:</p>
           <ul>
               <li>CV</li>
               <li>Essay</li>
@@ -120,10 +121,12 @@ export default function Home() {
           </ul>
           <u><h3>Automtive Research Division</h3></u>
           <ul>
+          <p style={{"textAlign": "justify"}}>To join this division, the following are needed:</p>
               <li>CV</li>
               <li>Interview</li>
           </ul>
           <u><h3>Learning Division</h3></u>
+          <p style={{"textAlign": "justify"}}>To join this division, the following are needed:</p>
           <ul>
               <li>Interview</li>
           </ul>
