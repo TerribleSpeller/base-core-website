@@ -39,17 +39,17 @@ const NavBar = () => {
                             </Link>
                             </li>
                             <li className="nav-item pt-3">
-                            <Link href="/index" className="nav-link link-module">
-                            <span>Index</span>
+                            <Link href="/people" className="nav-link link-module">
+                            <span>People</span>
                             </Link>
                             </li>
                             <li className="nav-item pt-3">
-                            <Link href="/faqs" className="nav-link link-module">
+                            <Link href="/pages/faqs" className="nav-link link-module">
                             <span>FAQs</span>
                             </Link>
                             </li>
                             <li className="nav-item pt-3 ">
-                            <Link href="/about" className="nav-link link-module">
+                            <Link href="/pages/about" className="nav-link link-module">
                             <span>About</span>
                             </Link>
                             </li>

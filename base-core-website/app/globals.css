@@ -246,6 +246,12 @@ body {
   left: 0;
 }
 
+.stick-botBar {
+  position: sticky;
+  bottom: 0;
+  left: 0;
+}
+
 .bg-img-landing {
   background-image: url("../public/bg-img.png");
   background-size: cover;

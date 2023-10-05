@@ -40,34 +40,6 @@ export default function Home() {
           </p>
         </div>
         <br/>
-        <div className="container" id="misi-visi">
-          <h2>VISION</h2>
-          <hr/>
-          <p style={{ "textAlign": "justify" }}>
-            To become an innovative and highly competitive technology research forum, producing competent and qualified students in the fields of robotics and automotive.
-          </p>
-          <h2>MISSION</h2>
-          <hr/>
-          <ol>
-            <li>
-              <p style={{ "textAlign": "justify" }}>
-                Enrich the reputation of the Binus Aso School of Engineering by creating innovation in the research of each club member which can be demonstrated through participation in competitions and actual implementation in the real world.              
-              </p>
-            </li>
-            <li>
-              <p style={{ "textAlign": "justify" }}>
-                Increase the understanding and skills of club members in their respective fields through training, research and experimentation activities to become competent experts in the field of technology.
-              </p>
-            </li>
-            <li>
-              <p style={{ "textAlign": "justify" }}>
-                Encourage collaboration between technological fields to produce creative ideas and innovative solutions that are relevant to the latest technological developments, so that they are able to face future challenges with effective solutions            
-              </p>
-            </li>
-          </ol>
-
-        </div>
-        <br/>
         <div className='container' id="divisions">
           <h2>BASE CORE Divisions</h2>
           <hr/>
@@ -132,19 +104,7 @@ export default function Home() {
           </ul>
         </div>
         <br/>
-        <div className="container" id="contact">
-          <h2>Contact</h2>
-          <hr/>
-          <ul>
-            <li>Whatsapp: 085280555225 ( Ketua Umum - Jo Edwards)</li>
-            <li>Email: core<span className="blockspam" aria-hidden="true">chinesewebsite</span>.binusaso<span className="blockspam" aria-hidden="true">lmaoblocked</span>@gmail<span className="blockspam" aria-hidden="true">thelandsoftheequestrians</span>.com
 
-            </li>
-            
-            
-          </ul>
-          {EmailReplaceScript()}
-        </div>
 
         
           
