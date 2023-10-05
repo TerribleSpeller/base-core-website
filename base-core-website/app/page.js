@@ -134,7 +134,10 @@ export default function Home() {
           <hr/>
           <ul>
             <li>Whatsapp: 085280555225 ( Ketua Umum - Jo Edwards)</li>
-            <li>Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#114;&#101;&#46;&#98;&#105;&#110;&#117;&#115;&#97;&#115;&#111;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#99;&#111;&#114;&#101;&#46;&#98;&#105;&#110;&#117;&#115;&#97;&#115;&#111;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></li>
+            <li>Email: core<span className="blockspam" aria-hidden="true">chinesewebsite</span>.binusaso<span className="blockspam" aria-hidden="true">lmaoblocked</span>@gmail<span className="blockspam" aria-hidden="true">thelandsoftheequestrians</span>.com
+
+            </li>
+            
             
           </ul>
           {EmailReplaceScript()}

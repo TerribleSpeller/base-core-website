@@ -252,3 +252,7 @@ body {
   min-height: 450px;
   display:flex;
 }
+
+.blockspam{
+  display:none;
+}
