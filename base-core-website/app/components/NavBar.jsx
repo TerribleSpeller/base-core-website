@@ -42,7 +42,7 @@ const NavBar = () => {
                             </Link>
                             </li>
                             <li className="nav-item pt-3">
-                            <Link href="/people" className="nav-link link-module">
+                            <Link href="/pages/people" className="nav-link link-module">
                             <span>People</span>
                             </Link>
                             </li>

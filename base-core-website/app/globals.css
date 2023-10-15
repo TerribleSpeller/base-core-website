@@ -257,6 +257,7 @@ body {
   background-size: cover;
   min-height: 450px;
   display:flex;
+  background-position: center center;
 }
 
 .blockspam{

@@ -13,16 +13,16 @@ const about = () => {
                     <h2>About Us</h2>
                     <hr/>
                     <p style={{"textAlign": "justify"}}>
-                        BASE CORE, or Binus ASO School of Engineering Centre for Research Engineering, was founded in August 2023 to fulfill a vacuum presented towards the selection of clubs present within the campus. The group aims to allow people to gain further practical experience in studying engineering for various purposes outside the range provided by the campus.
+                        Previously there was a student activity club called BARC (Binus Aso Robotic Club) which focused on honing students' skills in the field of robotics. On May 8 2023 several members of BARC decided to create a new club that did not only focus on robotics but focused more on engineering as a whole. The formation of this club began with the submission of a proposal for the formation of a student activity unit, but for one reason or another this club could only recognized and continued as a student club.
                     </p>
                     <br/>
                     <p style={{"textAlign": "justify"}}>
-                        We focus on more practical applications of the knowledge we've retrived and learned in Campus so that we may be able to be retain and understand the knowledge more. Through practice, may we be able to gain closer to perfection of the knowledge we've learned. Thus, we focus on practical things as enigneers, like engaging in <u>projects, competitions, and direct hands-on research</u>.
+                        The name of this club is BASE CORE, the word BASE itself is the name of the club's home campus, namely Binus Aso School of Engineering, and CORE is an abbreviation for Center of Research and Engineering which is the hope of this club to become the center of engineering research and engineering in BASE campus.
                     </p>
                     <br/>
                     <h3>Vision</h3>
                     <p style={{"textAlign": "justify"}}>
-                        To become an <b>innovative</b> and <b>highly competitive technology research forum</b>, producing competent and qualified students in the fields of robotics and automotive.
+                        To become an <u>innovative</u> and <u>highly competitive</u> technology research forum, producing competent and qualified students in the fields of robotics and automotive.
                     </p>
                     <br/>
                     <h3>Mission</h3>
@@ -49,7 +49,9 @@ const about = () => {
                     <br/>
                     <h3>Contact</h3>
                     <ul>
-                        <li>Whatsapp: 085280555225 ( Ketua Umum - Jo Edwards)</li>
+                        <li>General Chair and Head of the Robotic Research Division : Jonathan Edwards Telaumbanua - 085280555225</li> 
+                        <li>Head of Automotive Research Division : Leonard Litanius - 08124063338</li>
+                        <li>Head of  Robotic Learning Division: Adji Putra Nugraha Kusuma - 081617271362 </li>
                         <li>Email: core<span className="blockspam" aria-hidden="true">chinesewebsite</span>.binusaso<span className="blockspam" aria-hidden="true">lmaoblocked</span>@gmail<span className="blockspam" aria-hidden="true">thelandsoftheequestrians</span>.com
                         </li> 
                         <li>Technical Inquiries: 
