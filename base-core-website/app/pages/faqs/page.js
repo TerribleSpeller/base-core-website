@@ -23,7 +23,10 @@ const faqs = () => {
                         <li>
                                 <h3>When does this group meet?</h3>
                             <p style={{"textAlign": "justify"}}>
-                                BASE CORE meets two times each week, on Monday and Friday, at the times of 17.30 to 18.30 WIB
+                               <ul>
+                                    <li>BASE CORE's Learning Division meets two times each week, on Tuesday and Thursday, at the times of 17.00 to 18.00 WIB</li>
+                                    <li>BASE CORE's Research Divisions meets whenever a project exists to be worked on. Contact us for further information.</li>
+                                </ul> 
                             </p>
                         </li>
                         <li>

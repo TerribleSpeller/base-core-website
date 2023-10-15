@@ -70,10 +70,10 @@ export default function Home() {
             </ol>
             <br/>
             <u><h3>
-              Learning Division
+              Robotic Learning Division
             </h3></u>
             <p style={{ "textAlign": "justify" }}>
-              The Learning Division engages in 
+              The Robotic Learning Division engages in 
             </p>
             <ol>
               <li>Tutoring Sessions (2x/Weeks)</li>
@@ -92,7 +92,7 @@ export default function Home() {
               <li>Portfolio</li>
               <li>Interview</li>
           </ul>
-          <u><h3>Automtive Research Division</h3></u>
+          <u><h3>Automotive Research Division</h3></u>
           <ul>
           <p style={{"textAlign": "justify"}}>To join this division, the following are needed:</p>
               <li>CV</li>
@@ -105,11 +105,15 @@ export default function Home() {
           </ul>
         </div>
         <br/>
-
-
-        
-          
-
+        <div className="container" id="landingpage-contact">
+          <h2>Contact Us!</h2>
+          <ul>
+              <li>General Chair and Head of the Robotic Research Division : Jonathan Edwards Telaumbanua - 085280555225
+              </li> 
+              <li>Head of Automotive Research Division : Leonard Litanius - 08124063338</li>
+              <li>Head of  Robotic Learning Division: Adji Putra Nugraha Kusuma - 081617271362 </li>
+          </ul>
+        </div>
       </div>
    </>
   )

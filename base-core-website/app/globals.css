@@ -86,6 +86,8 @@
 body {
   padding-bottom: 3rem;
   color: rgb(var(--bs-tertiary-color-rgb));
+  background-color: #e6ebe9;
+  background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png");
 }
 
 
@@ -253,10 +255,11 @@ body {
 }
 
 .bg-img-landing {
-  background-image: url("../public/bg-img.png");
+  background-image: url("../public/coolpage2.png");
   background-size: cover;
   min-height: 450px;
   display:flex;
+  background-position: center center;
 }
 
 .blockspam{
@@ -266,3 +269,6 @@ body {
 .bg-lighterblue {
   background-color: #92B4EC;
 }
+
+
+
