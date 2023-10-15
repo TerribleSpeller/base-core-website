@@ -317,3 +317,19 @@
 .bg-lighterblue {
   background-color: #92B4EC;
 }
+
+.colorsetter {
+  background-color: #e6ebe9;
+  background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.bg-offwhite {
+  background-color: #e6ebe9;
+  opacity: 1;
+}
+
+.body {
+  background-color: #e6ebe9;
+  background-image: url("../public/bright-squares.png");
+}

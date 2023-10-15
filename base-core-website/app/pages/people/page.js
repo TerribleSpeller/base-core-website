@@ -39,14 +39,14 @@ const people = () => {
                     </ul>
                     <h3>Automotive Research Division</h3>
                     <ul>
-                        <li>Vito Christian</li>
-                        <li>Steven Salim Hanandtha</li>
-                        <li>Maxwell Angsana</li>
-                        <li>Willsan A Jantho</li>
-                        <li>Jason Alexander Lie</li>
-                        <li>Steven Salim</li>
-                        <li>Efran Leonard Putra Satria</li>
-                        <li>Richard Anthony Lim</li>
+                        <li>Vito Christian 2602103910 </li>
+                        <li>Steven Salim Hanandtha 2602053055 </li>
+                        <li>Maxwell Angsana 2602080535 </li>
+                        <li>Willsan A Jantho 2602053004 </li>
+                        <li>Jason Alexander Lie 2602130205 </li>
+                        <li>Steven Salim 2602115204 </li>
+                        <li>Efran Leonard Putra Satria 2602053036 </li>
+                        <li>Richard Anthony Lim 2602092043 </li>
                     </ul>
                 </div>
             </div>

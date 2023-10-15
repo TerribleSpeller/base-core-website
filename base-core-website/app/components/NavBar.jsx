@@ -10,7 +10,7 @@ import '../page.module.css'
 const NavBar = () => {
     return(
         <>
-            <div className="container stick-navBar " id="NavBar" style={{"alignSelf": "flex-start"}}>
+            <div className="container stick-navBar" id="NavBar" style={{"alignSelf": "flex-start"}}>
                 <div className="row ">
                     <header className="border border-top-0 pb-1 border-primary bg-light rounded-bottom d-flex flex-wrap justify-content-center pt-4">
                             <Image 
@@ -57,6 +57,7 @@ const NavBar = () => {
                             </Link>
                             </li>
                         </ul>
+                        <br/>
                     </header>
                 </div>
             </div>
