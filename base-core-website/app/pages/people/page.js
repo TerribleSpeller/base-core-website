@@ -30,6 +30,7 @@ const people = () => {
                         <li>Ricky Kosasi 2602130224</li>
                         <li>Edriel Marvel Ang 2602115223</li> 
                         <li>Alvin Winarta 2602185803</li> 
+                        <li>Hubert Richardo 2602169680</li> 
                     </ul>
                     <h3>Robotic Teaching Division</h3>
                     <ul>
